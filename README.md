@@ -49,7 +49,6 @@ This project predicts residential house prices in Pakistan using real estate lis
 
 ## 📂 Repository Structure
 
-```bash
 .
 ├── notebooks/
 │   └── House_Price_Prediction_Pakistan_Final.ipynb  # Main analysis notebook
